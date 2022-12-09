@@ -1,0 +1,62 @@
+,name,unit,value,type
+btc,Bitcoin,BTC,1.0,crypto
+eth,Ether,ETH,13.562,crypto
+ltc,Litecoin,LTC,224.239,crypto
+bch,Bitcoin Cash,BCH,156.738,crypto
+bnb,Binance Coin,BNB,59.832,crypto
+eos,EOS,EOS,16446.578,crypto
+xrp,XRP,XRP,43965.688,crypto
+xlm,Lumens,XLM,201228.76,crypto
+link,Chainlink,LINK,2503.664,crypto
+dot,Polkadot,DOT,3242.464,crypto
+yfi,Yearn.finance,YFI,2.488,crypto
+usd,US Dollar,$,17127.525,fiat
+aed,United Arab Emirates Dirham,DH,62909.402,fiat
+ars,Argentine Peso,$,2907954.153,fiat
+aud,Australian Dollar,A$,25202.366,fiat
+bdt,Bangladeshi Taka,৳,1769887.49,fiat
+bhd,Bahraini Dinar,BD,6452.178,fiat
+bmd,Bermudian Dollar,$,17127.525,fiat
+brl,Brazil Real,R$,89758.511,fiat
+cad,Canadian Dollar,CA$,23453.354,fiat
+chf,Swiss Franc,Fr.,16014.236,fiat
+clp,Chilean Peso,CLP$,14763927.259,fiat
+cny,Chinese Yuan,¥,119169.899,fiat
+czk,Czech Koruna,Kč,394654.162,fiat
+dkk,Danish Krone,kr.,120956.3,fiat
+eur,Euro,€,16243.094,fiat
+gbp,British Pound Sterling,£,13971.385,fiat
+hkd,Hong Kong Dollar,HK$,133354.059,fiat
+huf,Hungarian Forint,Ft,6807249.5,fiat
+idr,Indonesian Rupiah,Rp,267249349.176,fiat
+ils,Israeli New Shekel,₪,58559.867,fiat
+inr,Indian Rupee,₹,1411994.941,fiat
+jpy,Japanese Yen,¥,2339020.698,fiat
+krw,South Korean Won,₩,22338918.104,fiat
+kwd,Kuwaiti Dinar,KD,5254.399,fiat
+lkr,Sri Lankan Rupee,Rs,6293506.486,fiat
+mmk,Burmese Kyat,K,35962973.272,fiat
+mxn,Mexican Peso,MX$,338729.365,fiat
+myr,Malaysian Ringgit,RM,75421.059,fiat
+ngn,Nigerian Naira,₦,7621235.165,fiat
+nok,Norwegian Krone,kr,171531.828,fiat
+nzd,New Zealand Dollar,NZ$,26728.36,fiat
+php,Philippine Peso,₱,948017.186,fiat
+pkr,Pakistani Rupee,₨,3847698.676,fiat
+pln,Polish Zloty,zł,76259.435,fiat
+rub,Russian Ruble,₽,1070727.311,fiat
+sar,Saudi Riyal,SR,64410.715,fiat
+sek,Swedish Krona,kr,177699.964,fiat
+sgd,Singapore Dollar,S$,23226.637,fiat
+thb,Thai Baht,฿,593141.394,fiat
+try,Turkish Lira,₺,319447.196,fiat
+twd,New Taiwan Dollar,NT$,525948.637,fiat
+uah,Ukrainian hryvnia,₴,629231.317,fiat
+vef,Venezuelan bolívar fuerte,Bs.F,1714.979,fiat
+vnd,Vietnamese đồng,₫,407635114.583,fiat
+zar,South African Rand,R,297237.934,fiat
+xdr,IMF Special Drawing Rights,XDR,12921.382,fiat
+xag,Silver - Troy Ounce,XAG,729.452,commodity
+xau,Gold - Troy Ounce,XAU,9.529,commodity
+bits,Bits,μBTC,1000000.0,crypto
+sats,Satoshi,sats,100000000.0,crypto
